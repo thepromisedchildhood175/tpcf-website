@@ -3,7 +3,7 @@
    Every form on the site sends to this one address; each submission
    includes a "form" field (volunteer, partner, contact, newsletter, notify)
    so you can tell them apart in the email. */
-const FORM_ENDPOINT = "https://formspree.io/f/YOUR_FORM_ID";
+const FORM_ENDPOINT = "https://formspree.io/f/xaeegneo";
 
 (function () {
   // Mobile menu
